@@ -1,0 +1,14 @@
+===== 2026-08-31 03:04:55 =====
+Orde-0: x=0.3 y=0.7 -> hasil=17
+Orde-1: luas=180m2 lokasi=75 -> prediksi=770 juta
+  [R1] alpha=0.5333 z=770.00
+  [R2] alpha=0.0000 z=416.00
+
+
+===== 2026-08-31 03:08:29 =====
+Orde-0: x=0.3 y=0.7 -> hasil=17
+Orde-1: luas=180m2 lokasi=75 -> prediksi=770 juta
+  [R1] alpha=0.5333 z=770.00
+  [R2] alpha=0.0000 z=416.00
+
+

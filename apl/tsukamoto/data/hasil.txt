@@ -1,0 +1,27 @@
+===== 2026-08-31 03:04:55 =====
+Input: gaji=7.5 juta, usia=30 tahun
+[R1] alpha=0.7500 z=85.00
+[R2] alpha=0.0000 z=40.00
+[R3] alpha=0.0000 z=60.00
+[R4] alpha=0.0000 z=60.00
+Hasil akhir: 85.00
+
+
+===== 2026-08-31 03:08:29 =====
+Input: gaji=7.5 juta, usia=30 tahun
+[R1] alpha=0.7500 z=85.00
+[R2] alpha=0.0000 z=40.00
+[R3] alpha=0.0000 z=60.00
+[R4] alpha=0.0000 z=60.00
+Hasil akhir: 85.00
+
+
+===== 2026-08-31 03:10:37 =====
+Input: gaji=7.5 juta, usia=30 tahun
+[R1] alpha=0.7500 z=85.00
+[R2] alpha=0.0000 z=40.00
+[R3] alpha=0.0000 z=60.00
+[R4] alpha=0.0000 z=60.00
+Hasil akhir: 85.00
+
+

@@ -1,0 +1,3 @@
+id,lokasi,luas,formula
+R1,strategis,besar,1.5*luas+500
+R2,biasa,kecil,1.2*luas+200

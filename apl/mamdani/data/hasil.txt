@@ -1,0 +1,20 @@
+===== 2026-08-31 03:04:55 =====
+Input: gaji=4200 (ribu), tanggungan=3, nilai=2.88
+[R19] beasiswa=cukup alpha=0.5000
+[R21] beasiswa=cukup alpha=0.5000
+[R25] beasiswa=sedikit alpha=0.4667
+[R27] beasiswa=sedikit alpha=0.4667
+Centroid diskrit=5.7218 kontinu=5.7232 MOM=7.5000
+Hasil akhir: Rp 572.177
+
+
+===== 2026-08-31 03:06:06 =====
+Input: gaji=4200 (ribu), tanggungan=3, nilai=2.88
+[R19] beasiswa=cukup alpha=0.5000
+[R21] beasiswa=cukup alpha=0.5000
+[R25] beasiswa=sedikit alpha=0.4667
+[R27] beasiswa=sedikit alpha=0.4667
+Centroid diskrit=5.7218 kontinu=5.7232 MOM=7.5000
+Hasil akhir: Rp 572.177
+
+
